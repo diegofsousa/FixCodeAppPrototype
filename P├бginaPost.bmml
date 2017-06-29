@@ -1,0 +1,73 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="643" measuredH="688" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="361" y="115" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="395" y="246" w="215" h="361" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="399" y="254" w="36" h="38" measuredW="300" measuredH="300" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/diego.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="435" y="255" w="149" h="-1" measuredW="148" measuredH="17" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Diego%20Fernando%20-%20diego</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="435" y="272" w="149" h="-1" measuredW="123" measuredH="13" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>6710886</color>
+        <size>10</size>
+        <text>H%E1%203%20horas.%20-%20Ardu%EDno%2C%20Linux</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="435" y="292" w="157" h="62" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Resolvendo%20problema%20na%20instala%E7%E3o%20da%20vers%E3o%20mais%20recente%20da%20IDE%20Ardu%EDno%20no%20Linux</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="424" y="522" w="-1" h="-1" measuredW="74" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4%20comments</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::MenuBar" x="387" y="211" w="231" h="29" measuredW="242" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>th-list%7Csmall</icon>
+        <selectedIndex>-1</selectedIndex>
+        <text>Sobre%2C%20Ajuda%2C%20Feedback</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::VRule" x="608" y="332" w="-1" h="139" measuredW="10" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Paragraph" x="435" y="370" w="157" h="158" measuredW="275" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Ol%E1%20amigos%21%20Ultimamente%20enfrentei%20alguns%20probleminhas%20para%20conseguir%20instalar%20a%20vers%E3o%20mais%20recente%20da%20IDE%20Ardu%EDno.%20Entre%20v%E1rias%20issues%20nas%20quais%20entrei%2C%20finalmente%20resolvi%20o%20problema%20e%20venho%20aqui%20compartilhar%20com%20voc%EAs%20uma%20maneira%20que%20poder%E1%20dar%20certo%20com%20voc%EAs%20tamb%E9m%2C%20caso%20estejam%20enfrentando%20o%20mesmo%20problema.%0A%20%0ASegundo%20o%20tutorial%20de%20instala%E7%E3o%20pelo%20pr%F3prio%20site%20%3Chttps%3A//www.arduino.cc/en/Guide/Linux%3E%2C%20ao%20chegar%20ao%20ponto%20de%20iniciar%20o%20arquivo%20install.sh%2C%20cheguei%20ao%20primeiro%20problema%20que%20era%20a%20permiss%E3o.%0A%20%0AO%20interessante%20%E9%20que%20um%20chmod%20+x%20install.sh%20n%E3o%20resolveu%20o%20problema.%20S%F3%20deu%20certo%20quando%20executei%20o%20mesmo%20arquivo%20como%20superusu%E1rio.</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="405" y="541" w="194" h="55" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Title" x="409" y="549" w="149" h="-1" measuredW="73" measuredH="17" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>Jos%E9%20disse%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Title" x="424" y="566" w="149" h="-1" measuredW="111" measuredH="17" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>%22Muito%20legal%20cara%22</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
